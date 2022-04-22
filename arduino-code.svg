@@ -34,7 +34,9 @@
 <use xlink:href="#screen-arduino-ide" transform="matrix(0.5 0 0 0.5 10 6)"></use>
 
 <g id="setup">
-	<text transform="matrix(1 0 0 1 1024.5137 380.5698)"><tspan x="0" y="0" class="bold">setup()</tspan><tspan x="0" y="22.8">runs onc</tspan><tspan x="81.9" y="22.8">e</tspan><tspan x="93.3" y="22.8">, after power-on / reset</tspan></text>
+	<text transform="matrix(1 0 0 1 1024.5137 380.5698)"><tspan x="0" y="0" class="bold">setup()</tspan>
+		<tspan x="0" y="1.2em">runs once, after power-on / reset</tspan>
+	</text>
 	<path class="stroke-pink" d="M968,361h30c5.5,0,10,4.5,10,10v34"/>
 	<polygon class="fill-pink" points="1001,402.9 1008,415 1015,402.9"/>
 	<line class="stroke-pink dashed fine" x1="121.5" y1="415" x2="1011.6" y2="415"/>
@@ -42,7 +44,10 @@
 </g>
 
 <g id="loop">
-	<text transform="matrix(1 0 0 1 1026.0137 512.0698)"><tspan x="0" y="0" class="bold">loop()</tspan><tspan x="0" y="22.8">runs after setup()</tspan><tspan x="0" y="45.6">repeats as long as it‘s not paused</tspan></text>
+	<text transform="matrix(1 0 0 1 1026.0137 512.0698)"><tspan x="0" y="0" class="bold">loop()</tspan>
+		<tspan x="0" y="1.2em">runs after setup()</tspan>
+		<tspan x="0" y="2.4em">repeats as long as it‘s not paused</tspan>
+	</text>
 	<path class="stroke-pink" d="M968,533v52c0,5.5,4.5,10,10,10h20c5.5,0,10-4.5,10-10V460c0-5.5-4.5-10-10-10h-20c-5.5,0-10,4.5-10,10v52.5"/>
 	<polygon class="fill-pink" points="961,535.1 968,523 975,535.1"/>
 	<line class="stroke-pink dashed fine" x1="197" y1="450" x2="968" y2="450"/>
@@ -50,7 +55,9 @@
 </g>
 
 <g id="custom_function1">
-	<text transform="matrix(1 0 0 1 1027.0137 702.7183)" opacity="0.5"><tspan x="0" y="0" class="bold">custom function</tspan><tspan x="0" y="22.8">runs when called</tspan></text>
+	<text transform="matrix(1 0 0 1 1027.0137 702.7183)" opacity="0.5"><tspan x="0" y="0" class="bold">custom function</tspan>
+		<tspan x="0" y="1.2em">runs when called</tspan>
+	</text>
 	<path class="stroke-orange" d="M968,684h30c5.5,0,10,4.5,10,10v34"/>
 	<line class="stroke-orange" x1="1013.9" y1="738" x2="1002.1" y2="738"/>
 	<polygon class="fill-orange" points="1001,725.9 1008,738 1015,725.9 				"/>
@@ -59,7 +66,9 @@
 </g>
 
 <g id="custom_function2">
-	<text transform="matrix(1 0 0 1 1027.0137 792.7183)" opacity="0.5"><tspan x="0" y="0" class="bold">custom function</tspan><tspan x="0" y="22.8">runs when called</tspan></text>
+	<text transform="matrix(1 0 0 1 1027.0137 792.7183)" opacity="0.5"><tspan x="0" y="0" class="bold">custom function</tspan>
+		<tspan x="0" y="1.2em">runs when called</tspan>
+	</text>
 	<path class="stroke-orange" d="M973,774h30c5.5,0,10,4.5,10,10v34"/>
 	<line class="stroke-orange" x1="1018.9" y1="828" x2="1007.1" y2="828"/>
 	<polygon class="fill-orange" points="1006,815.9 1013,828 1020,815.9 				"/>
@@ -68,7 +77,10 @@
 </g>
 
 <g id="globalVariable">
-	<text transform="matrix(1 0 0 1 1025.5137 269.5698)" opacity="0.5"><tspan x="0" y="0" class="bold">global variables</tspan><tspan x="0" y="22.8">kept in memory after loop()</tspan><tspan x="0" y="45.6">re-initialize after power-down / reset</tspan></text>
+	<text transform="matrix(1 0 0 1 1025.5137 269.5698)" opacity="0.5"><tspan x="0" y="0" class="bold">global variables</tspan>
+		<tspan x="0" y="1.2em">kept in memory after loop()</tspan>
+		<tspan x="0" y="2.4em">re-initialize after power-down / reset</tspan>
+	</text>
 	<line class="stroke-blue" x1="1013.9" y1="236.5" x2="1002.1" y2="236.5"/>
 	<line class="stroke-blue" x1="1013.9" y1="340.5" x2="1002.1" y2="340.5"/>
 	<line class="stroke-blue" x1="1008" y1="236.5" x2="1008" y2="340.5"/>
@@ -82,7 +94,10 @@
 </g>
 
 <g id="localVariables">
-	<text transform="matrix(1 0 0 1 1448.3174 269.5699)" opacity="0.5"><tspan x="0" y="0" class="bold">local variable</tspan><tspan x="0" y="22.8">kept in memory during surrounding scope</tspan><tspan x="0" y="45.6">re-initialize on next function call</tspan></text>
+	<text transform="matrix(1 0 0 1 1448.3174 269.5699)" opacity="0.5"><tspan x="0" y="0" class="bold">local variable</tspan>
+		<tspan x="0" y="1.2em">kept in memory during surrounding scope</tspan>
+		<tspan x="0" y="2.4em">re-initialize on next function call</tspan>
+	</text>
 	<path class="stroke-blue dotted fine" d="M327,485.5h1055.7c5.5,0,10-4.5,10-10"/>
 	<path class="stroke-blue dotted fine" d="M493.5,669v-16.9c0-5.5,4.5-10,10-10h879.2c5.5,0,10-4.5,10-10V273.5c0-5.5,4.5-10,10-10h26.3"/>
 </g>
