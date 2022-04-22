@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF01AA;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1,4;}
+	.st1{fill:none;stroke:#FF01AA;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1,4;}
+	.st2{fill:none;stroke:#FF01AA;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FF01AA;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1.0012,4.0047;}
+	.st4{fill:none;stroke:#FF01AA;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:#FF01AA;}
+	.st6{display:none;fill:none;stroke:#FF01AA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#FF01AA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:none;stroke:#FF01AA;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1.0023,4.0092;}
+	.st9{fill:none;stroke:#FF01AA;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.9987,3.9948;}
+	.st10{fill:none;stroke:#FFAA00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st11{fill:#FFAA00;}
+	.st12{fill:none;stroke:#FFAA00;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#FFAA00;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1.0023,4.0092;}
+	.st14{fill:none;stroke:#FFAA00;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1.0012,4.0047;}
+	.st15{fill:none;stroke:#FFAA00;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st16{display:none;fill:none;stroke:#FFAA00;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#FFAA00;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.9984,3.9936;}
+	.st18{display:none;}
+	.st19{display:inline;}
+	.st20{fill:none;stroke:#009DEC;stroke-linecap:round;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#009DEC;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:4.0032,4.0032;}
+	.st22{fill:#009DEC;}
+	.st23{fill:none;stroke:#009DEC;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:4.0098,4.0098;}
+	.st24{opacity:0.5;}
+	.st25{font-family:'BitstreamVeraSans-Bold';}
+	.st26{font-size:19px;}
+	.st27{font-family:'BitstreamVeraSans-Roman';}
+	.st28{fill:none;stroke:#0090FF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#0090FF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:1.0009,4.0034;}
+	.st30{fill:none;stroke:#0090FF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.9904,3.9615;}
+	.st31{fill:none;stroke:#0090FF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.9991,3.9964;}
+	.st32{fill:none;stroke:#0090FF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.9983,3.9932;}
+	.st33{fill:none;stroke:#0090FF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<image style="overflow:visible;" width="1826" height="2144" xlink:href="../../../../Screenshots/screen-arduino-pseudocode.png"  transform="matrix(0.5 0 0 0.5 10 6)">
+</image>
+<g id="loop">
+	<path class="st0" d="M1008,595"/>
+	<path class="st0" d="M1008,525"/>
+	<line class="st1" x1="197" y1="450" x2="968" y2="450"/>
+	<g>
+		<g>
+			<line class="st2" x1="117" y1="595" x2="117.5" y2="595"/>
+			<line class="st3" x1="121.5" y1="595" x2="965.5" y2="595"/>
+			<line class="st2" x1="967.5" y1="595" x2="968" y2="595"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M968,533v52c0,5.5,4.5,10,10,10h20c5.5,0,10-4.5,10-10V460c0-5.5-4.5-10-10-10h-20c-5.5,0-10,4.5-10,10v52.5
+				"/>
+			<g>
+				<polygon class="st5" points="961,535.1 968,523 975,535.1 				"/>
+			</g>
+		</g>
+	</g>
+	<polyline class="st6" points="962,531 968,523 974,531 	"/>
+</g>
+<g id="setup">
+	<g>
+		<g>
+			<path class="st7" d="M968,361h30c5.5,0,10,4.5,10,10v34"/>
+			<g>
+				<polygon class="st5" points="1001,402.9 1008,415 1015,402.9 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st2" x1="117" y1="415" x2="117.5" y2="415"/>
+			<line class="st8" x1="121.5" y1="415" x2="1011.6" y2="415"/>
+			<line class="st2" x1="1013.6" y1="415" x2="1014.1" y2="415"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st2" x1="204" y1="361" x2="204.5" y2="361"/>
+			<line class="st9" x1="208.5" y1="361" x2="965.5" y2="361"/>
+			<line class="st2" x1="967.5" y1="361" x2="968" y2="361"/>
+		</g>
+	</g>
+	<line class="st4" x1="1013.9" y1="415" x2="1002.1" y2="415"/>
+	<polyline class="st6" points="1014,407 1008,415 1002,407 	"/>
+</g>
+<g id="setup_00000143576684089758686310000007712647485534857142_">
+	<g>
+		<g>
+			<path class="st10" d="M968,684h30c5.5,0,10,4.5,10,10v34"/>
+			<g>
+				<polygon class="st11" points="1001,725.9 1008,738 1015,725.9 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="117" y1="738" x2="117.5" y2="738"/>
+			<line class="st13" x1="121.5" y1="738" x2="1011.6" y2="738"/>
+			<line class="st12" x1="1013.6" y1="738" x2="1014.1" y2="738"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="542.5" y1="684" x2="543" y2="684"/>
+			<line class="st14" x1="547" y1="684" x2="965.5" y2="684"/>
+			<line class="st12" x1="967.5" y1="684" x2="968" y2="684"/>
+		</g>
+	</g>
+	<line class="st15" x1="1013.9" y1="738" x2="1002.1" y2="738"/>
+	<polyline class="st16" points="1014,730 1008,738 1002,730 	"/>
+</g>
+<g id="setup_00000018955919277053315120000016224669352170978453_">
+	<g>
+		<g>
+			<path class="st10" d="M973,774h30c5.5,0,10,4.5,10,10v34"/>
+			<g>
+				<polygon class="st11" points="1006,815.9 1013,828 1020,815.9 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="122" y1="828" x2="122.5" y2="828"/>
+			<line class="st13" x1="126.5" y1="828" x2="1016.6" y2="828"/>
+			<line class="st12" x1="1018.6" y1="828" x2="1019.1" y2="828"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="658.5" y1="774" x2="659" y2="774"/>
+			<line class="st17" x1="663" y1="774" x2="970.5" y2="774"/>
+			<line class="st12" x1="972.5" y1="774" x2="973" y2="774"/>
+		</g>
+	</g>
+	<line class="st15" x1="1018.9" y1="828" x2="1007.1" y2="828"/>
+	<polyline class="st16" points="1019,820 1013,828 1007,820 	"/>
+</g>
+<g class="st18">
+	<g class="st19">
+		<line class="st20" x1="998.5" y1="537.6" x2="1000.5" y2="537.6"/>
+		<path class="st21" d="M1004.5,537.6h106c11,0,20,9,20,20V616c0,11-9,20-20,20h-624c-11,0-20,9-20,20v23.5c0,11,9,20,20,20h21.3"/>
+		<line class="st20" x1="509.8" y1="699.5" x2="511.8" y2="699.5"/>
+		<g>
+			<polygon class="st22" points="510.6,703.5 517.5,699.5 510.6,695.5 			"/>
+		</g>
+	</g>
+</g>
+<g class="st18">
+	<g class="st19">
+		<line class="st20" x1="1071.5" y1="574.6" x2="1073.5" y2="574.6"/>
+		<path class="st23" d="M1077.5,574.6h91c11,0,20,9,20,20V653c0,11-9,20-20,20h-719c-11,0-20,9-20,20v76.5c0,11,9,20,20,20h58.3"/>
+		<line class="st20" x1="509.8" y1="789.5" x2="511.8" y2="789.5"/>
+		<g>
+			<polygon class="st22" points="510.6,793.5 517.5,789.5 510.6,785.5 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1027.0137 702.7183)" class="st24"><tspan x="0" y="0" class="st25 st26">custom function</tspan><tspan x="0" y="22.8" class="st27 st26">runs when called</tspan></text>
+<text transform="matrix(1 0 0 1 1027.0137 792.7183)" class="st24"><tspan x="0" y="0" class="st25 st26">custom function</tspan><tspan x="0" y="22.8" class="st27 st26">runs when called</tspan></text>
+<text transform="matrix(1 0 0 1 1026.0137 512.0698)"><tspan x="0" y="0" class="st25 st26">loop()</tspan><tspan x="0" y="22.8" class="st27 st26">runs after setup()</tspan><tspan x="0" y="45.6" class="st27 st26">repeats as long as it‘s not paused</tspan></text>
+<text transform="matrix(1 0 0 1 1024.5137 380.5698)"><tspan x="0" y="0" class="st25 st26">setup()</tspan><tspan x="0" y="22.8" class="st27 st26">runs onc</tspan><tspan x="81.9" y="22.8" class="st27 st26">e</tspan><tspan x="93.3" y="22.8" class="st27 st26">, after power-on / reset</tspan></text>
+<g>
+	<g>
+		<line class="st28" x1="422.5" y1="236.5" x2="423" y2="236.5"/>
+		<line class="st29" x1="427" y1="236.5" x2="1005.5" y2="236.5"/>
+		<polyline class="st28" points="1007.5,236.5 1008,236.5 1008,237 		"/>
+		<line class="st30" x1="1008" y1="241" x2="1008" y2="338"/>
+		<polyline class="st28" points="1008,340 1008,340.5 1007.5,340.5 		"/>
+		<line class="st29" x1="1003.5" y1="340.5" x2="425" y2="340.5"/>
+		<line class="st28" x1="423" y1="340.5" x2="422.5" y2="340.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st28" x1="322.5" y1="485.5" x2="323" y2="485.5"/>
+		<line class="st31" x1="327" y1="485.5" x2="1429" y2="485.5"/>
+		<line class="st28" x1="1431" y1="485.5" x2="1431.5" y2="485.5"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1025.5137 269.5698)" class="st24"><tspan x="0" y="0" class="st25 st26">global variables</tspan><tspan x="0" y="22.8" class="st27 st26">kept in memory after loop()</tspan><tspan x="0" y="45.6" class="st27 st26">re-initialize after power-down / reset</tspan></text>
+<text transform="matrix(1 0 0 1 1448.3174 489.5698)" class="st24"><tspan x="0" y="0" class="st25 st26">local variable</tspan><tspan x="0" y="22.8" class="st27 st26">kept in memory during surrounding scope</tspan><tspan x="0" y="45.6" class="st27 st26">re-initialize on next function call</tspan></text>
+<g>
+	<g>
+		<line class="st28" x1="493.5" y1="673.5" x2="493.5" y2="673"/>
+		<path class="st32" d="M493.5,669v-16.9c0-5.5,4.5-10,10-10h879.2c5.5,0,10-4.5,10-10V495.5c0-5.5,4.5-10,10-10h26.3"/>
+		<line class="st28" x1="1431" y1="485.5" x2="1431.5" y2="485.5"/>
+	</g>
+</g>
+<line class="st33" x1="1013.9" y1="236.5" x2="1002.1" y2="236.5"/>
+<line class="st33" x1="1013.9" y1="340.5" x2="1002.1" y2="340.5"/>
+<line class="st33" x1="1008" y1="236.5" x2="1008" y2="340.5"/>
+</svg>
